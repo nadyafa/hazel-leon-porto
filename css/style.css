@@ -39,7 +39,7 @@ p {
   font-size: 1.5rem;
 }
 .bg-picture {
-  background-image: url(/assets/hero.jpg);
+  background-image: url(../assets/hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
